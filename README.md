@@ -30,7 +30,7 @@ _Notice：本页面中 软件 特指 应用程序_
 
 ## 信息展示
 
-| 名称 | 开发者 | 功能 | 备注 |
+| 名称 | 开发者 | 功能说明 | 备注 |
 | - | - | - | -|
 | [Blackboard Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) | [STBBRD](https://github.com/STBBRD) | 课表、天气、时间、小黑板等 | 可以隐藏希沃管家悬窗 |
 | [ClassIsland](https://github.com/HelloWRC/ClassIsland) | [HelloWRC](https://github.com/HelloWRC) |课程表和天气 | — |
